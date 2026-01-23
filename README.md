@@ -1,13 +1,13 @@
 # DSA Repository
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Java](https://img.shields.io/badge/Java-17-red)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Java](https://img.shields.io/badge/Java-21-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-20-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
-This repository provides **Data Structures and Algorithms (DSA)** implementations, examples, and notes for C++ and Python. It is designed for students, developers, and competitive programmers to build a strong foundation in DSA, focusing on clarity, efficiency, and best practices.
+This repository provides **Data Structures and Algorithms (DSA)** implementations, examples, and notes for C++, Java and Python. It is designed for students, developers, and competitive programmers to build a strong foundation in DSA, focusing on clarity, efficiency, and best practices.
 
 ## Motivation
 
