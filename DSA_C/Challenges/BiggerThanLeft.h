@@ -1,6 +1,0 @@
-#ifndef BIGGERTHANLEFT_H_INCLUDED
-#define BIGGERTHANLEFT_H_INCLUDED
-
-void func(int a[], int n);
-
-#endif // BIGGERTHANLEFT_H_INCLUDED
