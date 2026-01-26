@@ -1,10 +1,12 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(dsa_cpp LANGUAGES CXX)
+
 set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_STANDARD_REQUIRED 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(experiments
-        playground/experiments/foo.cpp
         playground/experiments/main.cpp
-        fundamentals/ownership/ownership.cpp
 )
 
 add_executable(understanding

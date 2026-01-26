@@ -1,5 +1,6 @@
-#include "foo.hpp"
+#include <iostream>
+#include <cstdint>
 
 int main() {
-    return foo();
+    std::cout << (~uint8_t(0) << 2);
 }
