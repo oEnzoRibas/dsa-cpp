@@ -15,3 +15,7 @@ add_executable(understanding
         playground/experiments/understanding/pytagoras.hpp
 )
 add_executable(ownership fundamentals/ownership/ownership.cpp)
+
+add_executable(
+        dynamic_list data-structures/arrays/dynamic_array/DynamicArray.cpp
+        data-structures/arrays/dynamic_array/DynamicArray.tpp)
