@@ -3,6 +3,23 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+# Books I've used while learning DSA:
+
+## Books
+
+### Nivio Ziviani - Projeto de Algoritmos
+<p align="center">
+  <img src="books/projeto_de_algoritmos-nivio_ziviani.webp" width="300">
+</p>
+
+### Robert Sedgewick - Algorithms in C++
+
+<p>
+  <img src="books/algorithms_cpp_1_4-robert_sedgewick.jpg" width="220"> 
+  <img src="books/algorithms_cpp_5-robert_sedgewick.jpg" width="220">
+</p>
+
+
 ## Overview
 
 This repository provides **Data Structures and Algorithms (DSA)** implementations, examples, and notes for C++. It is designed for students, developers, and competitive programmers to build a strong foundation in DSA, focusing on clarity, efficiency, and best practices.
